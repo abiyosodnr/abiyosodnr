@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Back End & Software Engeneering Lectures 
 - 💞️ I’m looking to collaborate on World of Programming 
-- 📫 How to reach me (instagram at @abiyosodnr)
+- 📫 How to reach me (instagram at @abiyosodnr.py)
 
 <!---
 abiyosodnr/abiyosodnr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
