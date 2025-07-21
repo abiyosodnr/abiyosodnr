@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @abiyosodnr
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Back End & Software Engeneering Lectures 
-- 💞️ I’m looking to collaborate on World of Programming 
+- 🌱 I’m currently learning Data Science & Machine Learning Lectures 
 - 📫 How to reach me (instagram at @abiyosodnr.py)
 
 <!---
